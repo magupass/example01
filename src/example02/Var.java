@@ -1,4 +1,4 @@
-package var;
+package example02;
 
 public class Var {
 
