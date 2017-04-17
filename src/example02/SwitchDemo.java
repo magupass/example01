@@ -41,6 +41,8 @@ public class SwitchDemo {
         case 3:
             System.out.println("three");
             break;
+        default : 
+        	System.out.println("default");
         }
 	}
 
